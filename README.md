@@ -6,12 +6,8 @@
 
 
 ### Deploy to Netlify
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ouraihub/openai-gemini&integrationName=integrationName&integrationSlug=integrationSlug&integrationDescription=integrationDescription)
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)]
-(https://app.netlify.com/start/deploy?repository=https://github.com/ouraihub/twikoo-netlify
-&integrationName=integrationName&integrationSlug=integrationSlug&integrationDescription=integrationDescription)
-- Alternatively can be deployed with [cli](https://docs.netlify.com/cli/get-started/):
-  `netlify deploy`
 
 
 ## 更新
